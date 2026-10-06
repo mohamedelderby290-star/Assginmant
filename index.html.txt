@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is My Course</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h1>This is My Course</h1>
+        <div class="num">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </header>
+    <main>
+        <section>
+            <h2>Latest Posts</h2>
+            <article>
+                <h3>Learning HTML</h3>
+                <P>HTML is my the foundation of every website.</P>
+            </article>
+
+            <article>
+                <h3>Why CSS Matters</h3>
+                <P>CSS makes pages look great.</P>
+            </article>
+
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 My Blog</p>
+    </footer>
+</body>
+</html>
